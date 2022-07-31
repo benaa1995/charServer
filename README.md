@@ -1,26 +1,29 @@
 charServer
 
-======Description======
+                                           ======Description======
+
 Our program will be connected to the port and we will establish communication between everyone who enters the program through the port so he can communicate and talk to other users.
 
 
 
-======Program Files======
+                                           ======Program Files======
 chatServer.c- Our program
 chatServer.h - Our program
 README -Instructions and explanation of the program
 
 
 
-======How to compile====== 
+                                           ======How to compile====== 
 compile:gcc -Wall –o chatServer chatServer.c
 run: ./chatServer
 
 
-======Input======
+                                           ======Input======
 Transferring arguments.
 
 
-======Output======
+                                           ======Output======
 Steps to describe all the connections
-===================================    Enjoy    ===================================
+                                               
+                                               
+                                                   Enjoy    
